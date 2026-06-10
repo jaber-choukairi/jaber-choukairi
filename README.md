@@ -25,9 +25,9 @@ class JaberChoukairi:
 
     projects   = {
         "WAF HA"    : "ModSecurity + Nginx + HAProxy — architecture multi-zones DMZ/interne",
-        "FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevSecOps pipeline",
+        "DevOps - FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevSecOps pipeline",
         "ML"        : "Prédiction maladies cardiaques — ROC/AUC, Logistic Regression, Decision Tree",
-        "BH Bank"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
+        "Computer Vision"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
     }
 
     certified  = [
