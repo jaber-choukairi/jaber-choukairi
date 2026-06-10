@@ -21,17 +21,23 @@ class JaberChoukairi:
     role       = "Ingénieur en informatique — Cloud & DevSecOps"
     location   = "Sokra, Ariana, Tunisie"
     school     = "ENICarthage — Cycle Ingénieur (Année 2)"
-    focus      = ["Cloud Infrastructure", "DevSecOps", "CI/CD Automation", "MLOps"]
+    focus      = ["Cloud Infrastructure", "DevSecOps", "CI/CD Automation", "DataOps"]
 
     projects   = {
-        "Infrastructure WAF HA"    : "ModSecurity + Nginx + HAProxy — architecture multi-zones DMZ/interne",
-        "FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevOps pipeline",
+        "WAF HA"    : "ModSecurity + Nginx + HAProxy — architecture multi-zones DMZ/interne",
+        "FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevSecOps pipeline",
         "ML"        : "Prédiction maladies cardiaques — ROC/AUC, Logistic Regression, Decision Tree",
-        "ComputerVision"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
+        "BH Bank"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
     }
 
-    certified  = ["Multicloud Network Associate — Aviatrix", "Data Engineer — DataCamp" , CCNA: Switching, Routing, and Wireless Essentials— Cisco ]
-    seeking    = "Stage en Cloud Infrastructure / DevSecOps / mlopsOps"
+    certified  = [
+        "Multicloud Network Associate — Aviatrix",
+        "Data Engineer — DataCamp",
+        "Data Engineer Associate — DataCamp",
+        "CCNA: Switching, Routing & Wireless Essentials — Cisco",
+        "Scrum Fundamentals Certified (SFC) — SCRUMstudy",
+    ]
+    seeking    = "Stage en Cloud Infrastructure / DevSecOps / DataOps"
 ```
 
 ---
@@ -40,7 +46,7 @@ class JaberChoukairi:
 
 <div align="center">
 
-| 4 | 2 | 3 |
+| 4 | 5 | 3 |
 |:---:|:---:|:---:|
 | **Projets réalisés** | **Certifications** | **Langues** |
 
@@ -98,8 +104,11 @@ class JaberChoukairi:
 
 <div align="center">
 
-![Aviatrix](https://img.shields.io/badge/Multicloud%20Network%20Associate-Aviatrix-blue?style=for-the-badge&logo=cloud&logoColor=white)
+![Aviatrix](https://img.shields.io/badge/Multicloud%20Network%20Associate-Aviatrix-FF6B35?style=for-the-badge&logo=aviatrix&logoColor=white)
 ![DataCamp](https://img.shields.io/badge/Data%20Engineer-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+![DataCamp](https://img.shields.io/badge/Data%20Engineer%20Associate-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+![Cisco](https://img.shields.io/badge/CCNA%20Switching%20%26%20Routing-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-SCRUMstudy-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </div>
 
