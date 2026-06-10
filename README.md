@@ -21,17 +21,17 @@ class JaberChoukairi:
     role       = "Ingénieur en informatique — Cloud & DevSecOps"
     location   = "Sokra, Ariana, Tunisie"
     school     = "ENICarthage — Cycle Ingénieur (Année 2)"
-    focus      = ["Cloud Infrastructure", "DevSecOps", "CI/CD Automation", "DataOps"]
+    focus      = ["Cloud Infrastructure", "DevSecOps", "CI/CD Automation", "MLOps"]
 
     projects   = {
-        "WAF HA"    : "ModSecurity + Nginx + HAProxy — architecture multi-zones DMZ/interne",
-        "FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevSecOps pipeline",
+        "Infrastructure WAF HA"    : "ModSecurity + Nginx + HAProxy — architecture multi-zones DMZ/interne",
+        "FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevOps pipeline",
         "ML"        : "Prédiction maladies cardiaques — ROC/AUC, Logistic Regression, Decision Tree",
-        "BH Bank"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
+        "ComputerVision"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
     }
 
-    certified  = ["Multicloud Network Associate — Aviatrix", "Data Engineer — DataCamp"]
-    seeking    = "Stage en Cloud Infrastructure / DevSecOps / DataOps"
+    certified  = ["Multicloud Network Associate — Aviatrix", "Data Engineer — DataCamp" , CCNA: Switching, Routing, and Wireless Essentials— Cisco ]
+    seeking    = "Stage en Cloud Infrastructure / DevSecOps / mlopsOps"
 ```
 
 ---
