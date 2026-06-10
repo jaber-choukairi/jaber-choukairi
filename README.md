@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="https://github.com/jaber-choukairi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=☁️+Cloud+%26+DevSecOps+Engineer;🚀+Building+the+Future+with+Code;🔐+Securing+Infrastructure+%26+Pipelines;💡+AI+%26+Machine+Learning+Explorer;🌍+Open+Source+Advocate;🎯+Problem+Solver+%26+Innovator;⚙️+Automating+Everything+with+CI%2FCD" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%98%81%EF%B8%8F+Cloud+%26+DevSecOps+Engineer;%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%94%90+Securing+Infrastructure+%26+Pipelines;%F0%9F%92%A1+AI+%26+Machine+Learning+Explorer;%F0%9F%8C%8D+Open+Source+Advocate;%F0%9F%8E%AF+Problem+Solver+%26+Innovator;%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD" alt="Typing SVG"/>
 </a>
 
 <!-- Profile Views + Social Badges -->
