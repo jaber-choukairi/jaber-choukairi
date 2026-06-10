@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jaber%20Choukairi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevSecOps%20Engineer%20—%20ENICarthage&descAlignY=58&descSize=18"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaber-choukairi/jaber-choukairi/main/header_dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/jaber-choukairi/jaber-choukairi/main/header_dark.svg"/>
+</picture>
 
 <!-- Animated Typing -->
 <a href="https://github.com/jaber-choukairi">
@@ -138,6 +141,6 @@ class JaberChoukairi:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/jaber-choukairi/jaber-choukairi/main/footer_dark.svg"/>
 
 </div>
