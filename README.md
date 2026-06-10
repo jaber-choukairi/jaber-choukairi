@@ -3,6 +3,11 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jaber%20Choukairi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevSecOps%20Engineer%20—%20ENICarthage&descAlignY=58&descSize=18"/>
 
+<!-- Animated Typing -->
+<a href="https://github.com/jaber-choukairi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=☁️+Cloud+%26+DevSecOps+Engineer;🚀+Building+the+Future+with+Code;🔐+Securing+Infrastructure+%26+Pipelines;💡+AI+%26+Machine+Learning+Explorer;🌍+Open+Source+Advocate;🎯+Problem+Solver+%26+Innovator;⚙️+Automating+Everything+with+CI%2FCD" alt="Typing SVG"/>
+</a>
+
 <!-- Profile Views + Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=jaber-choukairi&label=Profile%20Views&color=6e40c9&style=flat-square" alt="profile views"/>
@@ -25,9 +30,9 @@ class JaberChoukairi:
 
     projects   = {
         "WAF HA"    : "ModSecurity + Nginx + HAProxy — architecture multi-zones DMZ/interne",
-        "DevOps - FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevSecOps pipeline",
+        "FullStack" : "Spring Boot + Angular + CI/CD + Docker — DevSecOps pipeline",
         "ML"        : "Prédiction maladies cardiaques — ROC/AUC, Logistic Regression, Decision Tree",
-        "Computer Vision"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
+        "BH Bank"   : "Authentification par reconnaissance faciale — FastAPI + MySQL",
     }
 
     certified  = [
